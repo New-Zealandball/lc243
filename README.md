@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lc243
+- 👋 Hi, 
 - 👀 I’m interested countyballs & Windows11
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
